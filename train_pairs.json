@@ -1,0 +1,222 @@
+[
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-002/56822_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-002/56789_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-002/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-003/42159_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-003/42137_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-003/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-004/65383_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-004/65370_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-004/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-005/67003_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-005/66981_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-005/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-006/64336_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-006/64324_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-006/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-007/49870_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-007/49879_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-007/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-008/59730_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-008/59716_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-008/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-009/56434_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-009/56406_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-009/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-010/64670_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-010/64657_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-010/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-011/67122_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-011/67108_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-011/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-012/48716_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-012/48667_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-012/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-013/46113_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-013/46123_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-013/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-014/53696_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-014/53677_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-014/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-015/51038_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-015/51017_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-015/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-017/51474_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-017/51452_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-017/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-018/50797_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-018/50772_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-018/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-019/42581_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-019/42557_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-019/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-020/63955_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-020/63942_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-020/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-021/56217_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-021/56202_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-021/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-022/57243_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-022/57226_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-022/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-023/58818_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-023/58803_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-023/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-024/40663_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-024/40627_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-024/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-025/48030_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-025/48016_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-025/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-026/50515_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-026/50525_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-026/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-027/43553_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-027/43538_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-027/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-028/47151_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-028/47125_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-028/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-029/45144_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-029/45122_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-029/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-030/48780_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-030/48768_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-030/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-031/60507_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-031/60491_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-031/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-032/59279_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-032/59267_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-032/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-033/49107_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-033/49122_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-033/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-034/42604_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-034/42589_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-034/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-035/55354_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-035/55341_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-035/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-036/44611_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-036/44583_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-036/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-037/57658_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-037/57641_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-037/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-038/41397_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-038/41362_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-038/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-039/56830_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-039/56813_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-039/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-040/61978_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-040/61463_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-040/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-041/66387_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-041/66373_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-041/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-042/67651_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-042/67634_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-042/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-043/44961_newsimct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-043/44986_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-043/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-044/39837_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-044/39805_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-044/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-045/45999_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-045/45981_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-045/keypoints.npy"
+    },
+    {
+        "ct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-046/53956_new_simct.nii.gz",
+        "cbct": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-046/53930_newcbct.nii.gz",
+        "ref": "/home/siat/luoluo/Pelvic_nii/Pelvic-Ref-046/keypoints.npy"
+    }
+]
